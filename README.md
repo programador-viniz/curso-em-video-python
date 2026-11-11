@@ -1,6 +1,6 @@
 # Curso em Vídeo Python 🐍
 
-Repositório pessoal de estudos com os exercícios do curso Python 3, ministrado por Gustavo Guanabara, do Curso em Vídeo.
+Resoluções dos exercícios do curso Python 3, ministrado pelo professor Gustavo Guanabara, da Instituição Curso em Vídeo.
 
 ## Objetivos 🎯
 
